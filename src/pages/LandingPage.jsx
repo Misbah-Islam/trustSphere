@@ -105,7 +105,7 @@ export const LandingPage = () => {
               <div className="w-12 h-12 sm:w-16 sm:h-16 rounded-2xl bg-slate-50 dark:bg-gray-900 flex items-center justify-center mb-6 group-hover:bg-trust-blue transition-colors duration-500 shadow-sm border border-slate-100 dark:border-gray-700">
                 {React.cloneElement(feature.icon, { className: "w-6 h-6 sm:w-8 sm:h-8 text-trust-blue group-hover:text-trust-gold transition-colors duration-500" })}
               </div>
-              <h3 className="text-xl sm:text-2xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-trust-blue transition-colors duration-300">
+              <h3 className="text-xl sm:text-2xl font-bold text-gray-900 dark:text-gray-600 mb-4 group-hover:text-trust-blue transition-colors duration-300">
                 {feature.title}
               </h3>
               <p className="text-sm sm:text-base text-gray-500 dark:text-gray-400 leading-relaxed group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors duration-300">

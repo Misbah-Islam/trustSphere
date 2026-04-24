@@ -119,7 +119,7 @@ export const DonationManagement = () => {
         <div className="overflow-x-auto">
           <table className="w-full text-left border-collapse min-w-[800px]">
             <thead>
-              <tr className="bg-gray-50/80 dark:bg-gray-900/50 text-gray-500  text-xs uppercase tracking-wider">
+              <tr className="bg-gray-50/80 dark:bg-gray-900/50 text-gray-500 dark:text-gray-800 text-xs uppercase tracking-wider">
                 <th className="px-6 py-4 font-semibold border-b border-gray-100 dark:border-gray-700">Donor</th>
                 <th className="px-6 py-4 font-semibold border-b border-gray-100 dark:border-gray-700">Amount</th>
                 <th className="px-6 py-4 font-semibold border-b border-gray-100 dark:border-gray-700">Purpose</th>
@@ -130,7 +130,7 @@ export const DonationManagement = () => {
             <tbody className="divide-y divide-gray-100 dark:divide-gray-700">
               {donations.length === 0 ? (
                 <tr>
-                  <td colSpan="5" className="px-6 py-12 text-center text-gray-500 dark:text-gray-400 bg-gray-50/20 dark:bg-gray-900/20 font-medium">
+                  <td colSpan="5" className="px-6 py-12 text-center text-gray-500 dark:text-gray-700 bg-gray-50/20 dark:bg-gray-900/20 font-medium">
                     No donation records available. Click "Record Donation" to add your first entry.
                   </td>
                 </tr>
