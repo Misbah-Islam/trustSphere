@@ -45,7 +45,7 @@ Make sure you have Node.js installed on your machine.
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/trustsphere.git
+git clone https://github.com/Misbah-Islam/trustSphere.git
 ```
 
 2. Navigate into the project folder:
