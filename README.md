@@ -1,5 +1,7 @@
-<img width="1366" height="605" alt="image" src="https://github.com/user-attachments/assets/1a02e558-d48c-4c15-b0f5-658a9ea2c75f" /><div align="center">
-  
+<div align="center">
+<img width="800" alt="TrustSphere Cover" src="https://github.com/user-attachments/assets/1a02e558-d48c-4c15-b0f5-658a9ea2c75f" />
+</div>
+
   ![React 18](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -86,15 +88,16 @@ src/
 ```
 
 ## Screenshots
-<img width="1366" height="601" alt="1" src="https://github.com/user-attachments/assets/85613587-ccbd-4a02-b1a5-c7489772f930" />
-<img width="1366" height="608" alt="2" src="https://github.com/user-attachments/assets/4238f467-dc76-412f-87cd-2ee57673941f" />
-<img width="1366" height="605" alt="3" src="https://github.com/user-attachments/assets/19f71f51-a49d-416d-af58-30ac91ec828b" />
+
+<img width="700" alt="Screenshot 1" src="https://github.com/user-attachments/assets/85613587-ccbd-4a02-b1a5-c7489772f930" />
+<img width="700" alt="Screenshot 2" src="https://github.com/user-attachments/assets/4238f467-dc76-412f-87cd-2ee57673941f" />
+<img width="700" alt="Screenshot 3" src="https://github.com/user-attachments/assets/19f71f51-a49d-416d-af58-30ac91ec828b" />
 
 ## Live Demo
 https://misbah-islam.github.io/trustSphere/
 
 ---
 
-**Developed by:** Misbah Islam(https://github.com/Misbah-Islam) | Batch 4 - U Devs | Assigned by: Usama Aslam
+**Developed by:** [Misbah Islam] (https://github.com/Misbah-Islam) | Batch 4 - U Devs | Assigned by: Usama Aslam
 
 **License:** MIT License
